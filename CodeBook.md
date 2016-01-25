@@ -17,7 +17,7 @@ An aggregation was performed on all columns of the data frame, grouping by `<sub
 When the script `<run_analysis.R>` is executed it will output tab separated values to a text file `<tidy_dataset.txt>` in the working directory.
 
 
-# Data
+## Data
 This code book summarizes the resulting data fields:
 * subject_ID : The ID of the test subject 
 *  activity : The type of activity performed when the corresponding measurements were taken 
