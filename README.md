@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 
 ## Introduction
-Peer Assessment Project for Getting and Cleaning Data. The dataset being used is: Human Activity Recognition Using Smartphones, see ???
+Peer Assessment Project for Getting and Cleaning Data. The dataset being used is: Human Activity Recognition Using Smartphones, see http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Script and the tidy dataset
 
