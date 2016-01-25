@@ -20,8 +20,9 @@ When the script `<run_analysis.R>` is executed it will output tab separated valu
 # Data
 This code book summarizes the resulting data fields:
 * subject_ID : The ID of the test subject 
-*  activity : The type of activity performed when the corresponding measurements were taken Measurements
+*  activity : The type of activity performed when the corresponding measurements were taken 
 
+The measurements are:
 * BodyAccMeanX
 * BodyAccMeanY
 * BodyAccMeanZ
