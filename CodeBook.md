@@ -14,4 +14,4 @@ Next, test and train data sets were merged into one `<merged_data>`.
 An aggregation was performed on all columns of the data frame, grouping by `<subject_ID>` and `<activity>`. 
 
 
-When the script `<run_analysis.R>` is executed it will output tab separated values to a text file `<tidy.txt>` in the working directory.
+When the script `<run_analysis.R>` is executed it will output tab separated values to a text file `<tidy_dataset.txt>` in the working directory.
