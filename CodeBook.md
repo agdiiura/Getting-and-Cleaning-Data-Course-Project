@@ -9,7 +9,7 @@ Headers for the `<X>`-values were extracted from `<features.txt>` file and appli
 
 The headers were used to filter out only means and standard deviations from the set of observations using a regular expression on the header names. 
 We create a logical mask using the `<grepl>` function: `<grepl("mean\\(\\)|std\\(\\)", features[, 2])>`. 
-Next, test and train data sets were merged into one `<merged_data>`. 
+Next, test and train data sets were merged into one, named `<merged_data>`. 
 
 An aggregation was performed on all columns of the data frame, grouping by `<subject_ID>` and `<activity>`. 
 
