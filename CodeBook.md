@@ -1,7 +1,7 @@
 # CodeBook for the tidy dataset
 
 ## Original dataset
-The original dataset can be obtained here http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones . The original pubblication can be found at this url http://link.springer.com/chapter/10.1007%2F978-3-642-35395-6_30
+The original dataset can be obtained here http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones . The original publication can be found at this url http://link.springer.com/chapter/10.1007%2F978-3-642-35395-6_30
 
 ## Procedure
 Test (`<X_test>` and `<y_test>`) and train (`<X_train>` and `<y_train>`) data were loaded separately. 
